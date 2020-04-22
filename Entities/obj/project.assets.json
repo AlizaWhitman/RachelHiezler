@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Fund4yy\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Call-Productivity\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Fund4yy\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Call-Productivity\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\beryl\\.nuget\\packages\\",
-      "outputPath": "C:\\Fund4yy\\Entities\\obj\\",
+      "outputPath": "C:\\Call-Productivity\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\beryl\\AppData\\Roaming\\NuGet\\NuGet.Config",

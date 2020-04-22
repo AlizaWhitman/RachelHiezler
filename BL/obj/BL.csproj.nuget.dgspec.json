@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\fund4yy\\BL\\BL.csproj": {}
+    "C:\\Call-Productivity\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\fund4yy\\BL\\BL.csproj": {
+    "C:\\Call-Productivity\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\fund4yy\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Call-Productivity\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\fund4yy\\BL\\BL.csproj",
+        "projectPath": "C:\\Call-Productivity\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\beryl\\.nuget\\packages\\",
-        "outputPath": "C:\\fund4yy\\BL\\obj\\",
+        "outputPath": "C:\\Call-Productivity\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\fund4yy\\DL\\DL.csproj": {
-                "projectPath": "C:\\fund4yy\\DL\\DL.csproj"
+              "C:\\Call-Productivity\\DL\\DL.csproj": {
+                "projectPath": "C:\\Call-Productivity\\DL\\DL.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\fund4yy\\DL\\DL.csproj": {
+    "C:\\Call-Productivity\\DL\\DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\fund4yy\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Call-Productivity\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "C:\\fund4yy\\DL\\DL.csproj",
+        "projectPath": "C:\\Call-Productivity\\DL\\DL.csproj",
         "packagesPath": "C:\\Users\\beryl\\.nuget\\packages\\",
-        "outputPath": "C:\\fund4yy\\DL\\obj\\",
+        "outputPath": "C:\\Call-Productivity\\DL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\fund4yy\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\fund4yy\\Entities\\Entities.csproj"
+              "C:\\Call-Productivity\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Call-Productivity\\Entities\\Entities.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\fund4yy\\Entities\\Entities.csproj": {
+    "C:\\Call-Productivity\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\fund4yy\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Call-Productivity\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\fund4yy\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Call-Productivity\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\beryl\\.nuget\\packages\\",
-        "outputPath": "C:\\fund4yy\\Entities\\obj\\",
+        "outputPath": "C:\\Call-Productivity\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beryl\\AppData\\Roaming\\NuGet\\NuGet.Config",

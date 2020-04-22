@@ -5418,11 +5418,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\fund4yy\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Call-Productivity\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\fund4yy\\BL\\BL.csproj",
+      "projectPath": "C:\\Call-Productivity\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\beryl\\.nuget\\packages\\",
-      "outputPath": "C:\\fund4yy\\BL\\obj\\",
+      "outputPath": "C:\\Call-Productivity\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\beryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5438,8 +5438,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\fund4yy\\DL\\DL.csproj": {
-              "projectPath": "C:\\fund4yy\\DL\\DL.csproj"
+            "C:\\Call-Productivity\\DL\\DL.csproj": {
+              "projectPath": "C:\\Call-Productivity\\DL\\DL.csproj"
             }
           }
         }
