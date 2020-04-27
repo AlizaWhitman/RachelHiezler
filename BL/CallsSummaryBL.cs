@@ -12,7 +12,6 @@ namespace BL
         public CallsSummaryBL(ICallsSummaryDL ICallsSummaryDL)
         {
             _ICallsSummaryDL = ICallsSummaryDL;
-            dfsdadf
         }
         public void PostCallsSummary(CallsSummary cs)
         {

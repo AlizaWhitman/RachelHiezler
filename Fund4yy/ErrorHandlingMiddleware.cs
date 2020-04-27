@@ -17,6 +17,7 @@ namespace MyLocalSite
 
         public ErrorHandlingMiddleware(RequestDelegate next)
         {
+
             _next = next;
         }
 
@@ -26,15 +27,17 @@ namespace MyLocalSite
             _logger = logger;
             try
             {
+
                 await _next(httpContext);
+
             }
             catch(Exception e)
             {
                 httpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
 
                 //  httpContext.Response.
-                logger.LogError("error caught by middlewear message is "+e.Message);
-                logger.LogError(e.StackTrace);
+                _logger.LogError("error caught by middlewear message is "+e.Message);
+                _logger.LogError(e.StackTrace);
 
             }
         }

@@ -36,12 +36,14 @@ namespace Fund4yy
             services.AddScoped(typeof(ICallsSummaryDL), typeof(CallsSummaryDL));
             services.AddSingleton<DataAccess>();
             services.AddScoped(typeof(IMembersDL), typeof(MembersDL));
+            services.AddScoped(typeof(ICallSessionBL), typeof(CallSessionBL));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseErrorHandlingMiddleware();
+            app.UseStartupMiddleware();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

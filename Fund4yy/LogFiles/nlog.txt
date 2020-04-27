@@ -1,0 +1,198 @@
+2020-04-27 00:23:13.9285|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:23:14.0243|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:23:14.0457|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:23:22.4160|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:26:48.0384|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:26:48.1099|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:26:48.1295|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:26:55.5884|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:28:59.0378|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:28:59.0979|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:28:59.1162|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:29:04.7922|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:30:02.0414|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:30:33.3720|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:30:33.3871|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:30:33.4118|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:32:14.4707|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:32:14.5503|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:14.6072|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:32:14.6558|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:32:21.5006|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:32:39.0434|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:39.1036|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:39.1184|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:39.1300|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:39.1300|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:39.1300|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.1997|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.2167|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.2404|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.2404|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.4910|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.5075|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.5214|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.5075|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:41.9297|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:42.8493|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:43.5469|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:43.5977|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:43.6262|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:44.0012|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:44.8794|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:32:44.9063|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here
+2020-04-27 00:34:44.6086|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:34:44.6594|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:34:44.7111|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:34:44.7408|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:34:51.4802|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:35:09.7100|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:09.7100|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:09.7100|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:09.7291|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:09.7291|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:12.0820|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:12.0820|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:12.0977|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:12.5090|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:13.8113|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:35:15.8850|INFO|MyLocalSite.ErrorHandlingMiddleware|I am hereMicrosoft.AspNetCore.Http.DefaultHttpContext
+2020-04-27 00:36:02.4664|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:36:02.5012|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000010-0000-fb00-b63f-84710c7967bb
+2020-04-27 00:36:02.5337|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:36:02.5624|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:36:09.6495|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:36:29.7613|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000000c-0003-fc00-b63f-84710c7967bb
+2020-04-27 00:36:29.7797|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000002-0002-fd00-b63f-84710c7967bb
+2020-04-27 00:36:29.7877|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000010-0002-fe00-b63f-84710c7967bb
+2020-04-27 00:36:29.8784|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000001e-0002-ff00-b63f-84710c7967bb
+2020-04-27 00:36:29.8814|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000002a-0001-fd00-b63f-84710c7967bb
+2020-04-27 00:36:32.4816|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000000a-0001-fc00-b63f-84710c7967bb
+2020-04-27 00:36:32.5070|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000009-0007-ff00-b63f-84710c7967bb
+2020-04-27 00:36:32.5070|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000002c-0001-fd00-b63f-84710c7967bb
+2020-04-27 00:36:32.9708|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000002-0001-fb00-b63f-84710c7967bb
+2020-04-27 00:36:34.1201|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000010-0004-ff00-b63f-84710c7967bb
+2020-04-27 00:36:36.1886|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000020-0002-ff00-b63f-84710c7967bb
+2020-04-27 00:39:41.7013|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:39:41.7420|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000022-0002-ff00-b63f-84710c7967bb
+2020-04-27 00:39:41.7792|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:39:41.7986|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:39:41.8160|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:39:50.9215|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:40:08.5552|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000000e-0005-fb00-b63f-84710c7967bb
+2020-04-27 00:40:08.5703|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000000a-0005-fa00-b63f-84710c7967bb
+2020-04-27 00:40:08.5703|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000012-0004-ff00-b63f-84710c7967bb
+2020-04-27 00:40:08.6035|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:08.6164|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:08.6286|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:08.5703|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000006-0005-f900-b63f-84710c7967bb
+2020-04-27 00:40:08.5703|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000010-0005-fc00-b63f-84710c7967bb
+2020-04-27 00:40:08.6781|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:08.6927|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:10.7869|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000012-0000-fb00-b63f-84710c7967bb
+2020-04-27 00:40:10.8260|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:10.9296|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000024-0002-ff00-b63f-84710c7967bb
+2020-04-27 00:40:10.9583|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:11.0117|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here8000000b-0007-ff00-b63f-84710c7967bb
+2020-04-27 00:40:11.0254|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:11.1745|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000002-0000-fa00-b63f-84710c7967bb
+2020-04-27 00:40:11.1745|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:12.1798|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000005-0007-fe00-b63f-84710c7967bb
+2020-04-27 00:40:12.2038|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:40:14.2701|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000026-0002-ff00-b63f-84710c7967bb
+2020-04-27 00:40:14.2701|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:44:35.4748|FATAL|Microsoft.AspNetCore.Hosting.Diagnostics|Application startup exception
+2020-04-27 00:45:29.7674|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:45:29.8028|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000004-0000-fa00-b63f-84710c7967bb
+2020-04-27 00:45:29.8255|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:45:29.8347|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:45:29.8347|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:45:29.9377|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Object reference not set to an instance of an object.
+2020-04-27 00:45:29.9904|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 00:45:35.7068|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:45:45.0509|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:45:45.0765|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000014-0004-ff00-b63f-84710c7967bb
+2020-04-27 00:45:45.1091|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:45:45.1246|INFO|MyLocalSite.ErrorHandlingMiddleware|Rachellllllllllllllllllli
+2020-04-27 00:45:45.1408|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:45:45.2341|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Object reference not set to an instance of an object.
+2020-04-27 00:45:45.2980|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 00:45:50.8668|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:54:47.9744|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:54:47.9990|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000002-0006-fd00-b63f-84710c7967bb
+2020-04-27 00:54:48.0354|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:54:48.0804|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:54:48.0831|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Object reference not set to an instance of an object.
+2020-04-27 00:54:48.1356|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at Fund4yy.StartupMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\StartupMiddleware.cs:line 29
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 00:54:54.5175|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:56:54.0386|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:56:54.0772|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000016-0004-ff00-b63f-84710c7967bb
+2020-04-27 00:56:54.1189|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:56:54.1706|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:56:54.1886|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Unable to resolve service for type 'BL.ICallSessionBL' while attempting to Invoke middleware 'Fund4yy.StartupMiddleware'.
+2020-04-27 00:56:54.2629|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 00:57:01.7787|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:57:39.9479|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:57:39.9833|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000025-0000-fd00-b63f-84710c7967bb
+2020-04-27 00:57:40.0334|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:57:40.0752|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:57:40.0906|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Unable to resolve service for type 'BL.ICallSessionBL' while attempting to Invoke middleware 'Fund4yy.StartupMiddleware'.
+2020-04-27 00:57:40.2187|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 00:57:47.4253|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 00:57:47.4253|INFO|MyLocalSite.ErrorHandlingMiddleware|I am here80000005-0001-fb00-b63f-84710c7967bb
+2020-04-27 00:57:47.4872|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Unable to resolve service for type 'BL.ICallSessionBL' while attempting to Invoke middleware 'Fund4yy.StartupMiddleware'.
+2020-04-27 00:57:47.5066|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 00:59:24.5064|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 00:59:24.5857|ERROR|MyLocalSite.ErrorHandlingMiddleware|error caught by middlewear message is Unable to resolve service for type 'BL.ICallSessionBL' while attempting to Invoke middleware 'Fund4yy.StartupMiddleware'.
+2020-04-27 00:59:24.6254|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 00:59:24.6472|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 00:59:24.6985|ERROR|MyLocalSite.ErrorHandlingMiddleware|   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at MyLocalSite.ErrorHandlingMiddleware.Invoke(HttpContext httpContext, ILogger`1 logger) in C:\Call-Productivity\Fund4yy\ErrorHandlingMiddleware.cs:line 31
+2020-04-27 01:01:03.3888|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 01:01:03.5164|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 01:01:03.5608|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 01:01:18.1087|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 01:04:44.8456|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:04:44.7453|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-04-27 01:04:44.9503|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-04-27 01:04:44.9989|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Call-Productivity\Fund4yy
+2020-04-27 01:05:02.3267|ERROR|Microsoft.AspNetCore.SpaServices|Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+2020-04-27 01:05:32.8047|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:32.8047|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:32.8361|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:32.8590|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:32.8629|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:35.4270|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:35.4270|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:35.4969|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:35.7503|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:36.9513|INFO|BL.CallSessionBL|WOW
+2020-04-27 01:05:39.0380|INFO|BL.CallSessionBL|WOW
